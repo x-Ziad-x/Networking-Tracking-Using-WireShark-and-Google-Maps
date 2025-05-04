@@ -21,9 +21,7 @@ A cybersecurity analysis tool that:
    https://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
   
 3. Run the visualizer:
-   Just run the code in your IDE and go to Google My Maps (https://www.google.com/maps/d/)
-   Click "Create New Map" → "Import"
-   Upload your .kml file
+   Just run the code in your IDE and go to Google My Maps (https://www.google.com/maps/d/), Click "Create New Map" → "Import", Upload your .kml file
 
 ## Features
 - Packet Analysis:
